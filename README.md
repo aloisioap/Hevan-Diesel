@@ -1232,11 +1232,9 @@ jQuery(function () { jQuery("input,select,textarea").not("[type=submit]").jqBoot
 <div class="container">
 <div class="row">
 <div class="col-sm-6">
-<div class="copyright">Copyright © 2015 Hevan Diesel. Todos os direitos reservados.</div>
+<div class="copyright">Copyright © 2018 Hevan Diesel. Todos os direitos reservados.</div>
 <!--/ .cppyright--></div>
 <div class="col-sm-3 col-sm-offset-3">
-<div class="developed">Desenvolvido por <a href="http://studiositebh.com.br/" target="_blank">Studio Site BH</a></div>
-<!--/ .developed--></div>
 </div>
 <!--/ .row--></div>
 <!--/ .container--></div>
